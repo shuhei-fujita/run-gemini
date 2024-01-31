@@ -7,4 +7,4 @@ curl https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generate
     -d '{
       "contents": [{
         "parts":[{
-          "text": "Write a story about a magic backpack."}]}]}' 2> /dev/null
+          "text": "What is the meaning of life? Response is 160 characters."}]}]}' 2> /dev/null

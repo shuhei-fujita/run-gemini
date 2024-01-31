@@ -1,4 +1,4 @@
-# Text to Text Transfer Transformer (T2T) のサンプルコードです
+# Image to Text(I2T) のサンプルコード
 
 # Gemini API では、使用するモデル バリエーションに応じて、テキストデータと画像データの両方をプロンプトに使用できます。
 # たとえば、gemini-pro モデルではテキスト プロンプトを使用してテキストを生成し、gemini-pro-vision モデルではテキストデータと画像データの両方を使用します。
